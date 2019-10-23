@@ -1,26 +1,27 @@
 def using_include(array, element)
 planets = ["Manaan", "Korriban", "Tython"]
-planets.include?("Balmorra")
+  planets.include?("Balmorra")
   => FALSE
-planets.include?("Tython")
+  planets.include?("Tython")
   => TRUE
 end
 
 def using_sort(array)
 planets = ["Manaan", "Korriban", "Tython"]
-planets.sort
+  planets.sort
   => ["Korriban", "Manaan", "Tython"]
 end
 
 def using_reverse(array)
 planets = ["Manaan", "Korriban", "Tython"]
   planets.reverse
-  
+  => ["Tython", "Korriban","Manaan"]
 end
 
 def using_first(array)
 planets = ["Manaan", "Korriban", "Tython"]
   planets.first
+  => 
 end
 
 def using_last(array)
