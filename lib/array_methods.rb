@@ -31,5 +31,6 @@ planets = ["Manaan","Korriban", "Tython"]
 end
 
 def using_size(array)
-
+planets = ["Manaan", "Korriban", "Tython"]
+  
 end
