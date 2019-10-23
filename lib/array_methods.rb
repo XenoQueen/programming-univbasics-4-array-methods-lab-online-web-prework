@@ -1,7 +1,6 @@
 def using_include(array, element)
 planets = ["Manaan", "Korriban", "Tython"]
 planets.include?("Balmorra")
-planets.include?("Tython")
 end
 
 def using_sort(array)
