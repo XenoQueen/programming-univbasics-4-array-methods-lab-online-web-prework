@@ -7,7 +7,8 @@ planets.include?("Tython")
 end
 
 def using_sort(array)
-
+planets = ["Manaan", "Korriban", "Tython"]
+planets.sort
 end
 
 def using_reverse(array)
