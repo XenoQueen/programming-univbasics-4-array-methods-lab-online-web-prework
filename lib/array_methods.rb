@@ -26,7 +26,8 @@ end
 
 def using_last(array)
 planets = ["Manaan","Korriban", "Tython"]
-  
+  planets.last
+  => "Tython"
 end
 
 def using_size(array)
