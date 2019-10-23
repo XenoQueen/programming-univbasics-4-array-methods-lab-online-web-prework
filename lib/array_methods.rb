@@ -12,7 +12,8 @@ planets.sort
 end
 
 def using_reverse(array)
-
+planets = ["Manaan", "Korriban", "Tython"]
+  
 end
 
 def using_first(array)
