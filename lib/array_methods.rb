@@ -17,7 +17,8 @@ planets = ["Manaan", "Korriban", "Tython"]
 end
 
 def using_first(array)
-
+planets = ["Manaan", "Korriban", "Tython"]
+  
 end
 
 def using_last(array)
