@@ -13,7 +13,7 @@ end
 
 def using_reverse(array)
 planets = ["Manaan", "Korriban", "Tython"]
-  
+  planets.reverse
 end
 
 def using_first(array)
